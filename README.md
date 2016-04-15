@@ -1,5 +1,5 @@
 # keycloaktalk
-Tech talk for a basic Keycloak demo
+Tech talk for a basic Keycloak demo. Lab steps are located at https://github.com/joshuacanter/keycloaktalk/wiki.
 
 The themes folder contains a completed theme as discussed in http://github.com/joshuacanter/keycloaktalk/wiki/Themes. 
 
