@@ -1,0 +1,8 @@
+{
+  "realm": "techtalk",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhoINeXCoSqrr+FX4qt8u0FMOczjrn/tOtnMqQ4uaq02r4Iwy5v/d//BWOL0uaeRB0CsrnbRHsyMRcN8IKevzWIM7dRPimeEWsi3bty1nvDbJrUKLoK5mGapMeqT9n5TUKgTUu57c0lelAb/m9icOOhNHY1spm1MS46oYtMoN6HWbY/mI4lBu7XO7B6CQkWcVIB3EjCdJL/jhWSxN7iisOTYxsRgJ6dO9h2AjGv6epRx+lsHGzYnBjgG3q0Rzr/DOrLhLRwp/90VaLDueKdtD9prpI9EX/va/jp3k3VCc18XcpqQ41HPEke/mNbb8Cnrgpwi4UWNlOXYngQdXrRNJ4QIDAQAB",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "js-console",
+  "public-client": true
+}
